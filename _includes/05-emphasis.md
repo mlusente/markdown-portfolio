@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_MARIO_
+
+__MARIO__
+
+_Mario __MARIO__ Mario_
